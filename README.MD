@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Python/SQL
 - 💞️ I’m looking to collaborate on Data Manipulation or Data Visualization projects
 - 📫 How to reach me via discord biancob._70599
+- 📈 Tableau Public page - https://public.tableau.com/app/profile/bianco.blanco1684/vizzes
+- 🗄️ Trailhead Profile page - https://www.salesforce.com/trailblazer/bblanco11
